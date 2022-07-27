@@ -1,0 +1,4 @@
+,workflow,psm_count,count_quantified,precursor_count,precursor_count_quantified,median_CV,precursor_count_CV,mean_coverage,sum_abs_log2ratioToExpected,ratio_count,FPR_ecoli,peptidoform_count_per_species_Contaminant,peptidoform_count_per_species_ECOLI,peptidoform_count_per_species_HUMAN,peptidoform_count_per_species_mixed_species,peptidoform_count_per_species_peptidoform_count_per_species_no_protein_match,peptidoform_count_per_species_YEAST
+1,MQ1-5-8-3_MBR,207478,194389,54129,51700,0.20638,51700,3.608182,22490.77,68947,0.005172414,760,1960,33325,245,11,9813
+2,MQ1-4-3-13_MBR,270759,257825,53269,50886,0.2314993,50886,4.683115,40248.8,102551,0.00456621,759,1930,32734,235,11,9801
+3,MQ2-0-3-0_noMBR,272900,261688,53069,51008,0.2299776,51008,4.773663,42216.97,105141,0.006501422,758,1932,32680,236,11,9624
